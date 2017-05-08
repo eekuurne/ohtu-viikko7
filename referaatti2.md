@@ -1,4 +1,4 @@
-Metriikat käytänteiden tukena ohjelmiston laadun arvioimisessa (Kasper Hirvikoski)
+# Metriikat käytänteiden tukena ohjelmiston laadun arvioimisessa (Kasper Hirvikoski)
 
 Ohjelmistojen laadun arvioiminen kehitystyön aikana on usein haasteellista, eikä testauksella havaita kaikkia mahdollisia virheitä ennen julkaisua. Jos virheet tulevat ilmi vasta julkaisun jälkeen, niiden korjaaminen on erittäin kallista. Laatua voidaan yrittää varmistaa automaattisten metriikoiden avulla arvioimalla ohjelmiston komponentteja.
 
