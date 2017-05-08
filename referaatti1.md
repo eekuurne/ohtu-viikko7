@@ -1,4 +1,4 @@
-Ryhmätyö ohjelmistokehityksessä (Kenny Heinonen)
+# Ryhmätyö ohjelmistokehityksessä (Kenny Heinonen)
 
 Ryhmätyö on olennainen osa ohjelmistokehitystä, koska yksittäisen ihmisen on vaikea osata hyvät taidot kaikilta ohjelmistotuotannon osa-alueilta ja kehittää ohjelmistoja kohtuullisessa ajassa yksinään. Ryhmätyöskentely vaatii järjestäytynyttä yhteistyötä ja kommunikointia ryhmän jäsenten välillä, ja ryhmätyöskentelyn apuna voidaan käyttää esimerkiksi ketteriä menetelmiä, kuten Scrum ja XP.
 
